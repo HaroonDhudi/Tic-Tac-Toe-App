@@ -33,9 +33,3 @@ Building game logic from scratch
 Managing game state and user interactions
 
 Designing responsive and user-friendly interfaces
-
- 
-🙌 Credits
-Built with love and curiosity by 
-
-[Muhammad Haroon Dhudi].
